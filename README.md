@@ -1,6 +1,3 @@
-# Regression-Analysis-On-Red-Wine-Quality-Dataset-
-Regression Analysis On Red Wine Quality Dataset. In this project, five machine learning algorithms are applied to solve a regression task aimed at predicting the quality of red wine based on its chemical properties. 
-
 # Machine Learning Regression Analysis on Red Wine Quality Dataset
 
 This project was completed as part of the *Principles of Machine Learning* module on the MSc Computer Science with Artificial Intelligence programme.  
