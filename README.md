@@ -1,14 +1,14 @@
 # Regression-Analysis-On-Red-Wine-Quality-Dataset-
 Regression Analysis On Red Wine Quality Dataset. In this project, five machine learning algorithms are applied to solve a regression task aimed at predicting the quality of red wine based on its chemical properties. 
 
-# 🍷 Machine Learning Regression Analysis on Red Wine Quality Dataset
+# Machine Learning Regression Analysis on Red Wine Quality Dataset
 
 This project was completed as part of the *Principles of Machine Learning* module on the MSc Computer Science with Artificial Intelligence programme.  
 The aim is to build and evaluate regression models that can predict wine quality based on its physicochemical properties.
 
 ---
 
-## 📌 **Project Overview**
+## **Project Overview**
 
 The goal of this coursework is to:
 - Explore and analyse the **Red Wine Quality dataset**.
@@ -19,7 +19,7 @@ The goal of this coursework is to:
 
 ---
 
-## 📊 **Dataset**
+## **Dataset**
 
 - **Dataset name:** Red Wine Quality (UCI Machine Learning Repository)
 - **Target variable:** `quality` (wine quality score from 0–10)
@@ -38,7 +38,7 @@ The goal of this coursework is to:
 
 ---
 
-## ⚙️ **Data Preprocessing Steps**
+## **Data Preprocessing Steps**
 
 ✔ Import dataset using `pandas`  
 ✔ Visualise distributions and detect outliers using boxplots  
@@ -48,7 +48,7 @@ The goal of this coursework is to:
 
 ---
 
-## 🤖 **Models Implemented**
+## **Models Implemented**
 
 | Model | Optimised? | Notes |
 |--------|------------|-------|
@@ -61,7 +61,7 @@ The goal of this coursework is to:
 
 ---
 
-## 🧪 **Model Evaluation**
+## **Model Evaluation**
 
 Each model is evaluated using:
 - **Mean Squared Error (MSE)**
@@ -79,7 +79,7 @@ Results are printed and compared to determine the best-performing model.
 
 ---
 
-## 💻 **Tools & Libraries Used**
+## **Tools & Libraries Used**
 
 - **Python**
 - **Pandas / NumPy**
@@ -91,7 +91,7 @@ Results are printed and compared to determine the best-performing model.
 
 ---
 
-## ✅ **Next Steps / Future Improvements**
+## **Next Steps / Future Improvements**
 
 - Add ensemble models like Gradient Boosting or XGBoost  
 - Deploy model using Flask or Streamlit  
@@ -100,12 +100,10 @@ Results are printed and compared to determine the best-performing model.
 
 ---
 
-## 👤 **Author**
+## **Author**
 
 **Darren Ironside**  
 MSc Computer Science with Artificial Intelligence  
 University of Hertfordshire
 
 ---
-## 📁 **Project Structure**
-
